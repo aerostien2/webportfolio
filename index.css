@@ -34,3 +34,6 @@ line-height: 1.15;
 box-sizing: border-box;
 }
 
+.fa-indeed:before {
+    content: "\f16d";
+}
